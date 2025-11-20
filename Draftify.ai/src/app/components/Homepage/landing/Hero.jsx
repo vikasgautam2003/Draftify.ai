@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import Badge from "../ui/Badge";
 import Button from "../ui/Button";
 import { Play } from "lucide-react";
-import DemoModel from "../ui/DemoModal";
+import DemoModal from "../ui/DemoModal";
 
 export default function Hero() {
   const [open, setOpen] = useState(false);
@@ -120,7 +120,7 @@ export default function Hero() {
         ✹
       </motion.div>
 
-      <DemoModel open={open} setOpen={setOpen} />
+      <DemoModal open={open} setOpen={setOpen} />
     </section>
   );
 }
