@@ -31,7 +31,7 @@ You describe what you want, and Draftify AI generates:
 
 The platform uses a real-time LLM streaming pipeline and an in-browser editor to simulate the experience of pairing with a senior full-stack engineer.
 
-![Draftify Screenshot](/public/ai.png)
+![Draftify Screenshot](Draftify.ai/public/ai.png)
 
 ---
 
