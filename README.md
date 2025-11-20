@@ -5,7 +5,6 @@ A full-stack platform that lets you build complete applications using natural-la
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white&style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq_LLM-000000?logo=groq&logoColor=white&style=for-the-badge)
 ![Sandpack](https://img.shields.io/badge/Sandpack-121212?logo=codesandbox&logoColor=white&style=for-the-badge)
