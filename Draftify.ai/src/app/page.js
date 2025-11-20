@@ -878,13 +878,13 @@
 
 
 
-import Navbar from "./components/Hompage/landing/Navbar";
-import Hero from "./components/Hompage/landing/Hero";
-import LogoTicker from "./components/Hompage/landing/LogoTicker";
-import FeatureSection from "./components/Hompage/landing/FeatureSection";
-import SplitFeature from "./components/Hompage/landing/SplitFeature";
-import CTA from "./components/Hompage/landing/CTA";
-import Footer from "./components/Hompage/landing/Footer";
+import Navbar from "./components/Homepage/landing/Navbar";
+import Hero from "./components/Homepage/landing/Hero";
+import LogoTicker from "./components/Homepage/landing/LogoTicker";
+import FeatureSection from "./components/Homepage/landing/FeatureSection";
+import SplitFeature from "./components/Homepage/landing/SplitFeature";
+import CTA from "./components/Homepage/landing/CTA";
+import Footer from "./components/Homepage/landing/Footer";
 
 export default function LandingPage() {
   return (
