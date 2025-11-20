@@ -46,7 +46,7 @@ export default function Hero() {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ delay: 0.3, duration: 0.6 }}
         >
-          <Badge>Draftify 2.0 is live</Badge>
+          <Badge>Draftify 1.0 is live</Badge>
         </motion.div>
 
         <motion.h1
