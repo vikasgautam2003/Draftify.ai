@@ -1,6 +1,6 @@
 # Draftify.ai — AI Software Engineer
 
-A full-stack platform that lets you build complete applications using natural-language prompts. Draftify.ai generates React components, pages, APIs, styles, and previews everything in real-time using cutting-edge LLMs, streaming, and a built-in code playground.
+A full-stack platform that lets you build complete applications using natural-language prompts. Draftify.ai generates React components, pages, styles, and previews everything in real-time using cutting-edge LLMs, streaming, and a built-in code playground.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -25,16 +25,13 @@ You describe what you want, and Draftify AI generates:
 
 - Components  
 - Pages  
-- APIs  
-- Design systems  
-- File structure  
 - Live preview  
 - Editable code  
 - Full application scaffolding  
 
 The platform uses a real-time LLM streaming pipeline and an in-browser editor to simulate the experience of pairing with a senior full-stack engineer.
 
-![Draftify Screenshot](/public/draftify-banner.png)
+![Draftify Screenshot](/public/ai.png)
 
 ---
 
