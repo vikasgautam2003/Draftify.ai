@@ -13,7 +13,7 @@ A full-stack platform that lets you build complete applications using natural-la
 ---
 
 ### ▶️ Live Demo  
-https://draftify.ai
+[https://draftify.ai](https://draftify-ai-omega.vercel.app/)
 
 ---
 
